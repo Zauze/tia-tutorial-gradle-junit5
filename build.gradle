@@ -35,7 +35,7 @@ version '1.0-SNAPSHOT'
 // some Gradle plugins well.
 java {
   toolchain {
-    languageVersion.set(JavaLanguageVersion.of(11))
+    languageVersion.set(JavaLanguageVersion.of(17))
   }
 }
 
