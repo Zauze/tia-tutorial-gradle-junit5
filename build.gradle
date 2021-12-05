@@ -9,7 +9,7 @@ teamscale {
         url = 'http://localhost:8080/'
         userName = 'admin'
         userAccessToken = 'q4tu9vfAAjQZ1peCpPvQHSrLi5CeIcGY'
-        project = 'tia-junit5'
+        project = 'tia_second'
     }
 
     report {
@@ -29,7 +29,7 @@ group 'eu.cqse.tutorials'
 version '1.0-SNAPSHOT'
 
 // Please make use of this toolchain feature also in
-// your Gradle projects to specify the Java version 
+// your Gradle projects to specify the Java version
 // to use. Setting paths to particular JDK installations
 // has shown to be error prone and is not supported by
 // some Gradle plugins well.
