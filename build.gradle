@@ -8,7 +8,7 @@ teamscale {
     server {
         url = 'http://localhost:8080/'
         userName = 'admin'
-        userAccessToken = 'q4tu9vfAAjQZ1peCpPvQHSrLi5CeIcGY'
+        userAccessToken = 'm4vZOUPAxjomBnRX2vgacqJ63jD0rq6X'
         project = 'tia_second'
     }
 
